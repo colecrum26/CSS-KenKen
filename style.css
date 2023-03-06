@@ -29,7 +29,6 @@ body {
 
 #box3,
 #box7,
-#box10,
 #box11,
 #box12,
 #box15 {
@@ -46,6 +45,10 @@ body {
 #box10,
 #box11 {
   border-bottom: 0.5rem solid black;
+}
+
+#box9 {
+  border-right: 0.5rem solid black;
 }
 
 .prompt {
